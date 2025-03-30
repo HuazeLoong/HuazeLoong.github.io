@@ -1,3 +1,9 @@
+---
+layout: default
+title: Java语言学习笔记
+---
+
+
 # 阶段一 JavaSE基础
 ## 第一章 Java基础语法
 ### 1-1 Java入门
