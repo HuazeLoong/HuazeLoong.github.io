@@ -43,7 +43,7 @@ title: HuazeLoong 的主页
 
 <div class="nav-container">
   <div class="nav-item">
-    <a href="go_yyjv.md">🐹 Go 笔记</a>
+    <a href="go.md">🐹 Go 笔记</a>
   </div>
   <div class="nav-item">
     <a href="java.md">☕ Java 笔记</a>
