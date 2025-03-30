@@ -7,5 +7,5 @@ layout: default
 
 这里是我的学习笔记和技术文章合集：
 
-- [Go 笔记](go_yyjv.md)
+- [Go 笔记](go.md)
 - [Java 笔记](java.md)
